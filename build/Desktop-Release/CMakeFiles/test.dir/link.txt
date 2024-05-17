@@ -1,0 +1,1 @@
+/bin/clang-18 -O3 -DNDEBUG CMakeFiles/test.dir/main.c.o -o test 
